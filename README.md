@@ -1,5 +1,6 @@
 # Project Objective
 We aim to compute “hub” and “authority” scores for Cases that are handled by supreme court of USA. We construct a network and apply them to a network of Supreme Court opinions based of “The Authority of Supreme Court Precedent” Social Networks (2008), Fowler and Jeon. Hub score is calculated based on how many cases a given case cites and Authority score calculated based on how many cases has cited this specific case.
+
 ![alt_text](https://github.com/rakesh09111996/Network-analysis_supreme-court-judgements/blob/847ec41e38522602b3b66cab8ada0ad3b6e15c11/hub_authority.PNG)
 
 # Data source
